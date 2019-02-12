@@ -1,0 +1,9 @@
+Active record is the M liin MVP - model. it is responsilble for the business data and logic
+ORM => Obejcet relationship mapping, that connects the rich contents of the objects to the table in relationship databse schema manegment system. 
+
+Active record as an ORM framework
+. Represnet the model and their data.
+. Represent the association between the model.
+. Represent the inharitance hierarchies through the modeles.
+. Validate model before they get persistate in databse.
+. Perform databse operations in Object Oriented Fashion.

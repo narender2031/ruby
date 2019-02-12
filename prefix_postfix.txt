@@ -1,0 +1,5 @@
+order operations
+1. (){}[]
+2. ^ - right to left 
+3. *, % = left to rigt 
+4. +, - = left to right

@@ -1,0 +1,12 @@
+.Nginx is Http proxy server. which is also use as mail proxy server and genric TCP/UDP proxy server
+.Serving the static and index file, AutoIndexing, Open file descriptor in cache
+.Accerlate the proxy with the cacheing , load balencing and fault tolerence. 
+
+
+
+Architecture
+.One Master and Servel Worker proccesses. worker proccess run under the unprivelaged user 
+flexiable configuration 
+
+Local default port is 80 
+default port for ssl is 443 
